@@ -59,3 +59,18 @@ h1 {
 .modal-header h4 {
   font-size: 3em;
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  right: 3em;
+}
+
+#creditsto {
+  font-family: monospace;
+  color: #FFF;
+}
+
+#creditsto a {
+  color: #1AD5D2;
+}
